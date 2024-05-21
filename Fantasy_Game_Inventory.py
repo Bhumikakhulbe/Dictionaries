@@ -9,7 +9,7 @@ def displayInventory(): #A function is defined
         break #breaks the loop
     Dict={} #An empty dictionary is created
     total=0 #initilising variable
-    print("Create The Dictionary:")
+    print("Create The Inventory:")
     for i in range(n):
         #input validation
         while True:
